@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -g -std=c++11 -Wall -g  -shared -Wl,-soname,libXSim.so -o libXSim.so CMakeFiles/XSim.dir/sst/src/sst_core/sst_core.cpp.o CMakeFiles/XSim.dir/sst/src/sst_core/sst_memory.cpp.o CMakeFiles/XSim.dir/sst/src/sst_core/xsim_sst_interface.cpp.o 

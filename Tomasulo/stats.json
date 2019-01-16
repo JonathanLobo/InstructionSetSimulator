@@ -1,0 +1,7 @@
+{"cycles": 43,
+"integer" : [{ "id" : 0, "instructions" : 14 }, { "id" : 1, "instructions" : 1 }],
+"multiplier" : [{ "id" : 0, "instructions" : 0 }, { "id" : 1, "instructions" : 0 }],
+"divider" : [{ "id" : 0, "instructions" : 0 }],
+"ls" : [{ "id" : 0, "instructions" : 0 }],
+"reg reads" : 28,
+"stalls" : 20 }

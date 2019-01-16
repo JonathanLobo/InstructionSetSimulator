@@ -1,0 +1,4 @@
+How to run the program:
+Step1: cd ~/CS2410/project2
+Step2: ./build.sh
+Step3: ./run.sh

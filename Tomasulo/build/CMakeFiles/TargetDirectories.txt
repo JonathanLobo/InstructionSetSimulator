@@ -1,0 +1,3 @@
+/home/user/CS2410/project2/build/CMakeFiles/edit_cache.dir
+/home/user/CS2410/project2/build/CMakeFiles/rebuild_cache.dir
+/home/user/CS2410/project2/build/CMakeFiles/XSim.dir

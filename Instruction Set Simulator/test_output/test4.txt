@@ -1,0 +1,17 @@
+{"registers":[
+	{"r0":10, "r1":100, "r2":10, "r3":100,
+	 "r4":24, "r5":14, "r6":20, "r7":30
+	}],
+ "stats":[
+	{"add":0,	"sub":0,	"and":0,
+	 "nor":0,	"div":0,	"mul":0,
+	 "mod":0,	"exp":0,	"lw":1,
+	 "sw":1,	"liz":0,	"lis":6,
+	 "lui":0,	"bp":0,		"bn":0,
+	 "bx":0,	"bz":0,		"jr":1,
+	 "jalr":1,	"j":0,		"halt":1,
+	 "put":2,
+	 "instructions":13,
+	 "cycles":229
+	}]
+}

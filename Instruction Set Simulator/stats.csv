@@ -1,0 +1,13 @@
+ComponentName, StatisticName, StatisticSubId, StatisticType, SimTime, Rank, Sum.u64, SumSQ.u64, Count.u64
+data_memory, requests_received_GetS, , Accumulator, 43000, 0, 0, 0, 0
+data_memory, requests_received_GetSEx, , Accumulator, 43000, 0, 0, 0, 0
+data_memory, requests_received_GetX, , Accumulator, 43000, 0, 0, 0, 0
+data_memory, requests_received_PutM, , Accumulator, 43000, 0, 0, 0, 0
+data_memory, outstanding_requests, , Accumulator, 43000, 0, 0, 0, 43
+data_memory, latency_GetS, , Accumulator, 43000, 0, 0, 0, 0
+data_memory, latency_GetSEx, , Accumulator, 43000, 0, 0, 0, 0
+data_memory, latency_GetX, , Accumulator, 43000, 0, 0, 0, 0
+data_memory, latency_PutM, , Accumulator, 43000, 0, 0, 0, 0
+data_memory, cycles_with_issue, , Accumulator, 43000, 0, 0, 0, 0
+data_memory, cycles_attempted_issue_but_rejected, , Accumulator, 43000, 0, 0, 0, 0
+data_memory, total_cycles, , Accumulator, 43000, 0, 43, 43, 43

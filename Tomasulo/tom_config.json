@@ -1,0 +1,8 @@
+{
+  "integer":      {"number":2, "resnumber":4, "latency":1},
+  "divider":      {"number":1, "resnumber":2, "latency":20},
+  "multiplier":   {"number":2, "resnumber":4, "latency":10},
+  "ls":           {"number":1, "resnumber":8, "latency":3},
+  "cache":        {"associativity":1, "size":"4096B"},
+  "clock":        "1GHz"
+}
